@@ -5,8 +5,8 @@
 package org.flower.service;
 
 /**
- *
- * @author student
+ *tutorial from: https://github.com/aem95/FlowerTutorial.git
+ * @author Anna
  */
 public class FlowerService {
     
